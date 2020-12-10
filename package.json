@@ -12,6 +12,7 @@
   "private": true,
   "dependencies": {
     "@angular/animations": "~11.0.1",
+    "@angular/cdk": "^11.0.2",
     "@angular/common": "~11.0.1",
     "@angular/compiler": "~11.0.1",
     "@angular/core": "~11.0.1",
@@ -19,6 +20,11 @@
     "@angular/platform-browser": "~11.0.1",
     "@angular/platform-browser-dynamic": "~11.0.1",
     "@angular/router": "~11.0.1",
+    "@ux-aspects-angular/a11y": "file:ux-aspects-angular-a11y-0.0.1.tgz",
+    "@ux-aspects-angular/button": "file:ux-aspects-angular-button-0.0.1.tgz",
+    "@ux-aspects-angular/mixins": "file:ux-aspects-angular-mixins-0.0.1.tgz",
+    "@ux-aspects-css/button": "file:ux-aspects-css-button-0.0.1.tgz",
+    "@ux-aspects-themes/micro-focus": "file:ux-aspects-themes-micro-focus-0.0.1.tgz",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"

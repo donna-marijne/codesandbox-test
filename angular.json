@@ -28,6 +28,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/@ux-aspects-themes/micro-focus/index.css",
               "src/styles.scss"
             ],
             "scripts": []
